@@ -1,0 +1,40 @@
+type = "service_account"
+project_id = "control-inventario-app-513019"
+private_key_id = "d2164127289d30e394ec235f62a5238645ef52e7"
+private_key = """
+-----BEGIN PRIVATE KEY-----
+MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC9LJOj52+n5j+m
+CangwT4gaswSOVCG4NK/pKS9YMEMXGRBhvd47H/WIOWOpuARbHEEfGnxhnbW3Jlo
+eOT2I4cLBy+wsw6E1OufQGRvGxA6PlPKCW+Cc7nRV5h92r+z6LSnUBEsa/8txXqh
+LvoLD4fA3E5b6U6Yui+seKYqBuwD9uJm2QQMQw3AlaUjh8SjCrSaZ4x/Ca7tfMQE
+zNHn7ufN3oH36yhhLQD5c0hXpocq1/d5bW4DCAp5LAbPgw1Poqq4WJg+80h4tEYX
+6lhd5eomB/sVixjlVvgT9FZjEv32yqtTaVUUbNyQ2DOuSALumF0M6rLW+t9FpwRg
+bF6YfcvXAgMBAAECggEAA2QYEYzoy18vQcLYhIvEXW2HUt+jRbpXXuczM5Rf2gtf
+Im33KCKWek/G2WESERiOPBL8DXMOoY4Wj1ufaxDlXgp5GmhTRYjANbPzjkRNBndR
+FUDAHO0W3YQGa+pQ8Q+/pHVYMofAZJ0D+J+fUPE9jvSy8nw6T78kyFxxbDTWKGwi
+/93EZey4ilwdrSM4Pv+xwob9o6eHRyzx5gyifBh2t36e2TubxWl9T1FK/8gM0Oq5
+6s3LsbTDWsyTx1A68hCoeJQkFJ/lFHAqEjHGxbiX/f1G2XODr3QOorXdOYP4MQp+
+gEu2vGsTVwB4LCgiDquIPBHxfXsPlqPSSFA5SqGpRQKBgQD4UBtslTx/xLC9woVg
+BvrI8JyweRBVVZKUuBjg1OFLZBiTPZOBTITOdA8X7gPl0w4pZU045Nb5CFHvk7nS
+iFpgOeaYcNtwrZx9Ha9RSJ+byeRLZ08aTVvXUtkWxyXVhBbxhnG19+MhdYZpcbOf
+BRfvX+j7gPANj2Z0OfOCYJoBiwKBgQDDB8qlMgWpWAYbNZvS3RYvCbyk5Ta8q+g8
+hWWz2vc04h6uHmspmbP9M+0308zgmpAdhE5TfNs0EY7G1th6ZXO2tcdbwEwTi74T
+EC+lKrmUoHos/24qTNAG0nlwQJWvZMXpnRDvt/8aIytxQ2RWOfGicnyUEJpszz62
+k2RpUjeQZQKBgQCXv8Tyt8UwRBDK9vyxcbKDaGApjOLJc7FPx64UgKRqgXJvUTs6
+0nt6+/xZYHDrW+8Upz7pHRivOkFwizQNkJzCn7/nu1iv5Ll00NZac2pvN5OX7Tuv
+VEVjMtNOk0fw03d+BO6rCSG6Setptz3RWbiF5nQod2S8tL0lHGFPdR/I/wKBgQCg
+8RMXU7o8TvlrBsg6MFwYIQ7dfJG5DJuvJd4Rl8aci2UKBuwj/kT71BgUE+JkDuiS
+kxYX61bxFvQdvjoSdxoQUt3bJ0sgbhdCn/7Ra/qNXgi0jW0Z1x1sI9A3A/UCMkTo
+TccmK06HATLeWuC4D0UJ6zRG85Sb6kI0ZFleWIylyQKBgQCPYs3tsGqbpK/q8hnS
+UyoZt3v7wGY2KfClZtMhugBo6HrS+lggD3v9uHMwbCeeWWEpHdG5hLobQEpIoAN9
+Xr3ahfe6XoI89olDzQ2VCTljjRoiItChUW0AtSVRzxhY4qXz2D4MwgVW1WmYONd/
+FyIa0WZcBNVpmXYu+f114JdijQ==
+-----END PRIVATE KEY-----
+"""
+client_email = "streamlit-inventario-bot@control-inventario-app-513019.iam.gserviceaccount.com"
+client_id = "110640932380008782986"
+auth_uri = "https://accounts.google.com/o/oauth2/auth"
+token_uri = "https://oauth2.googleapis.com/token"
+auth_provider_x509_cert_url = "https://www.googleapis.com/oauth2/v1/certs"
+client_x509_cert_url = "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-inventario-bot%40control-inventario-app-513019.iam.gserviceaccount.com"
+universe_domain = "googleapis.com"
